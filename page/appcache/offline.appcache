@@ -1,0 +1,7 @@
+CACHE MANIFEST
+# v1 2019-6-5 1
+/static/appcache/main.js
+/static/appcache/color-red.css
+
+NETWORK:
+*
